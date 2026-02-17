@@ -1,4 +1,4 @@
-\## Kilter Connector
+\##Kilter Connector
 
 Android app for connecting to a kilter board and sending custom images etc. to it.
 
@@ -10,8 +10,3 @@ Android app for connecting to a kilter board and sending custom images etc. to i
 * test grid
 * program game
 * convert images
-
-
-
-
-
