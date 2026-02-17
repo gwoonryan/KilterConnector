@@ -1,8 +1,12 @@
-\##Kilter Connector
+\## Kilter Connector
+
+
 
 Android app for connecting to a kilter board and sending custom images etc. to it.
 
-## ToDo
+
+
+\## ToDo
 
 
 
